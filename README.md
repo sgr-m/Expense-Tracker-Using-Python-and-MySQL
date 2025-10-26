@@ -28,7 +28,7 @@ ExpenseTracker/
 1. Clone the repository:
 git clone https://github.com/your-username/ExpenseTracker.git
 
-2.Navigate to the project folder: cd ExpenseTracker
+2. Navigate to the project folder: cd ExpenseTracker
 
 3. Install required packages: pip install -r requirements.txt
 
