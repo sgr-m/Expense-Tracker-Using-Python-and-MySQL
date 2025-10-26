@@ -6,13 +6,14 @@ A simple Python-based CLI application to track personal expenses, manage categor
 
 ```
 ExpenseTracker/
-├── database_connection.py # Database connection setup
-├── expense_tracker.py # Manages expense-related operations (add, view)
-├── category_manager.py # Handles category-related operations (add, view)
-├── config.py # Optional configuration data for db connection
-├── budget_manager.py # Manages budget operations (set, view)
-├── report_generator.py # Generates reports for expenses by category
-└── user_interface.py # CLI for interacting with system
+├── Database/                # Database-related files
+├── PythonFunctions/         # Python scripts for functionality
+├── expenseReport.csv        # Sample/exported expense report
+├── testing.py               # Test scripts
+├── user_interface.py        # CLI for interacting with system
+├── README.md                # Project README
+└── LICENSE                  # MIT License file
+
 ```
 
 ## Features
